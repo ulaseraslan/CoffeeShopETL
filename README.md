@@ -10,7 +10,7 @@ Database schema and implementation can be seen from the database_imp file in mas
 <img src="https://github.com/ulaseraslan/CoffeeShopETL/blob/master/database_imp/CoffeShopStarSchema.png?raw=true" width="600" height="400">
 
 
->Please check "Dashboard" file to see the dashboard implementation
+>Please check "Dashboard" directory to see the dashboard implementation in PDF format
 <img src="https://github.com/ulaseraslan/CoffeeShopETL/blob/master/Dashboard/Coffee%20Shop%20Dashboard%20-%20Power%20BI.png?raw=true" width="550" height="700">
 
 >Please click link below to reach the PowerBI based dashboard implementation:
