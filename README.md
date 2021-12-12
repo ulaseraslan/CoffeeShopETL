@@ -6,6 +6,6 @@ ETL Pipeline case study that simulates a data warehouse implementation. Dataset 
 Related data warehouse tables schema is designed based on star schema procedure. Implementation applied on local MySQL Database.
 Database schema and implementation can be seen from the database_imp file in master branch.
 
-## Following design summarize the database schema
+>Following design summarizes the database schema
 <img src="https://github.com/ulaseraslan/CoffeeShopETL/blob/master/database_imp/CoffeShopStarSchema.png?raw=true" width="600" height="400">
 
