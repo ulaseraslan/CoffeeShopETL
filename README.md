@@ -7,5 +7,5 @@ Related data warehouse tables schema is designed based on star schema procedure.
 Database schema and implementation can be seen from the database_imp file in master branch.
 
 ## Following design summarize the database schema
-<img src="https://github.com/ulaseraslan/CoffeeShopETL/blob/master/database_imp/CoffeShopStarSchema.png?raw=true" width="300" height="300">
+<img src="https://github.com/ulaseraslan/CoffeeShopETL/blob/master/database_imp/CoffeShopStarSchema.png?raw=true" width="600" height="300">
 
